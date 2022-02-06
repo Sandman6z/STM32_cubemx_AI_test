@@ -1,0 +1,63 @@
+test_ai\aivalidation.o: ../X-CUBE-AI/App/aiValidation.c
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/aiValidation.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/aiTestUtility.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+test_ai\aivalidation.o: ../X-CUBE-AI/Target/bsp_ai.h
+test_ai\aivalidation.o: ../Core/Inc/main.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+test_ai\aivalidation.o: ../Core/Inc/stm32f4xx_hal_conf.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f429xx.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Include/core_cm4.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Include/cmsis_version.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+test_ai\aivalidation.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_crc.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+test_ai\aivalidation.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/app_x-cube-ai.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_platform.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/network_1644156729134.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/network_1644156729134_config.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/network_1644156729134_data.h
+test_ai\aivalidation.o: ../X-CUBE-AI/constants_ai.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/aiTestHelper.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/aiPbMgr.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/pb.h
+test_ai\aivalidation.o: ../X-CUBE-AI/App/stm32msg.pb.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/core_datatypes.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_datatypes_internal.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_datatypes.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_platform_interface.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/datatypes_network.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_datatypes_format.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_datatypes_defines.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/formats_list.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/core_common.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/core_private.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/ai_math_helpers.h
+test_ai\aivalidation.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+test_ai\aivalidation.o: ../Middlewares/ST/AI/Inc/core_log.h
