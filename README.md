@@ -1,0 +1,2 @@
+# STM32_cubemx_AI_test
+STM32_cubemx_AI_test
